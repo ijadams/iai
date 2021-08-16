@@ -1,7 +1,7 @@
 ---
 title: The Roots of Music
 date: 2018-08-01T00:00:00.000+00:00
-thumbnail: "/upload/rootsofmusickwelsh-037-570x377.jpeg"
+thumbnail: "/upload/20160407-nola-beller-1823.jpeg"
 year: 2016
 categories:
 - design
