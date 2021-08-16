@@ -1,15 +1,23 @@
 ---
-title: Project one
-date: 2018-08-01 00:00:00 +0000
-thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
-year: 2018
+title: The Roots of Music
+date: 2018-08-01T00:00:00.000+00:00
+thumbnail: "/upload/rootsofmusickwelsh-037-570x377.jpeg"
+year: 2016
 categories:
-- print
-description: subtitle
+- design
+- branding
+- ux
+- engineering
+- strategy
+description: Engineering, Web Design, Branding, Digital Strategy
 
 ---
-# Project one
+# The Roots of Music
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Worked closely at the New Orleans non-profit musical education outreach group The Roots of Music. Developed brand identity, digital strategy, and engineered a custom website for the organization. 
 
-![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
+![](/upload/image_processing20200516-17869-fgyy2k.gif)
+
+![](/upload/image_processing20200916-24404-aa3xdy.jpeg)
+
+See it live at [https://therootsofmusic.org/](https://therootsofmusic.org/ "https://therootsofmusic.org/")
