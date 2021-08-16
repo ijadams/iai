@@ -1,8 +1,8 @@
 {
-    "title": "Acme",
-    "description": "Creative Agency",
+    "title": "IAI",
+    "description": "Consultancy",
     "logo": "/upload/logo.svg",
-    "footer": "Ⓒ Acme",
+    "footer": "Ⓒ IAI",
     "favicon": "favicon-32x32.png",
     "navigation": [
       {
@@ -12,14 +12,8 @@
         "external": false
       },
       {
-        "text": "Instagram",
-        "link": "https://www.instagram.com/its.nwa",
-        "position": "left",
-        "external": true
-      },
-      {
         "text": "Say hi!",
-        "link": "mailto:sayhi@mydomain.com",
+        "link": "mailto:hello@iai.contact",
         "position": "right",
         "external": true
       },

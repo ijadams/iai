@@ -1,10 +1,10 @@
 {
-  "name": "portfolio-vuepress",
+  "name": "iai-portfolio",
   "scripts": {
     "build": "vuepress build portfolio",
     "develop": "vuepress dev portfolio"
   },
-  "author": "Nichlas W. Andersen",
+  "author": "Ian Adams",
   "license": "MIT",
   "dependencies": {
     "vuepress": "^1.5.4",
