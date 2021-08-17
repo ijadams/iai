@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>We're IAI</strong>.<br>Engineering &amp; Creative Solutions"
+hero_text: "<strong>Superb Digital</strong>.<br>IAI Engineering &amp; Creative"
 title: IAI Consulting
 
 ---
