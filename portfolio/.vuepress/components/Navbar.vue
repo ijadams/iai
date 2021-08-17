@@ -124,12 +124,13 @@
     font-size: 0.8rem;
     font-weight: 600;
     z-index: 10;
+    background: white;
   }
 
   .logo {
     position: absolute;
-    width: 3rem;
-    height: 3rem;
+    width: 5rem;
+    height: 5rem;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;

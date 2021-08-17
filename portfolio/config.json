@@ -1,9 +1,9 @@
 {
     "title": "IAI",
     "description": "Consultancy",
-    "logo": "/upload/logo.svg",
+    "logo": "https://res.cloudinary.com/ia-interactive/image/upload/v1629158354/iai_logo_udldoz.svg",
     "footer": "Ⓒ IAI",
-    "favicon": "favicon-32x32.png",
+    "favicon": "https://res.cloudinary.com/ia-interactive/image/upload/v1629158459/iai_logo-32-32_ffkbcf.png",
     "navigation": [
       {
         "text": "Works",
@@ -17,11 +17,6 @@
         "position": "right",
         "external": true
       },
-      {
-        "text": "Journal",
-        "link": "/journal/",
-        "position": "right",
-        "external": false
-      }
     ]
-  }
+ } 
+}
