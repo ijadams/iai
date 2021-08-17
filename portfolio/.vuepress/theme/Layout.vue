@@ -60,11 +60,17 @@
         }
       }
     },
+    mounted: function () {
+        this.$nextTick(function () {
+          setTimeout(() => {
+            document.querySelector('.wrapper').classList.add('active');
+          }, 100)
+        })
+    },
     updated() {
         // unwrap all images from paragraph tags so we can have
         // different widths inside the content.
-
-        document.querySelectorAll('p img').forEach(image => {
+        document.querySelector('p img').forEach(image => {
           var wrapper = image.parentNode
           let children = wrapper.children
           let fragment = document.createDocumentFragment()
@@ -83,6 +89,7 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
 
   :root {
     --color-black: #1c1c1c;
@@ -115,6 +122,16 @@
     font-size: 16px;
     background: #fff;
     color: var(--color-black);
+
+  }
+
+  .wrapper {
+    transition: 0.25s ease-in;
+    opacity: 0 !important;
+  }
+
+  .wrapper.active {
+    opacity: 1 !important;
   }
 
   img {
