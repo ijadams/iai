@@ -129,14 +129,21 @@
 
   .logo {
     position: absolute;
-    width: 5rem;
-    height: 5rem;
+    width: 10rem;
+    height: 10rem;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
+  }
+
+  @media screen and (max-width: 768px) {
+    .logo {
+      width: 5rem;
+      height: 5rem;
+    }
   }
 
   .navigation li {
