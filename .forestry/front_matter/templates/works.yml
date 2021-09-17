@@ -35,4 +35,5 @@ fields:
   config:
     required: true
 pages:
+- portfolio/works/broadway-plus.md
 - portfolio/works/volta-live.md
