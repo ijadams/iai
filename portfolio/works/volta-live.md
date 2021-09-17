@@ -1,8 +1,7 @@
 ---
 title: Volta Live
 thumbnail: "/upload/volta-logo.jpg"
-description: Engineering and Design solutions for 4Fourty Media's Volta multi camera
-  live streaming experience
+description: Engineering, UI, UX, Design
 categories:
 - Engineering
 - UX
