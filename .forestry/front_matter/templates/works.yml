@@ -35,5 +35,6 @@ fields:
   config:
     required: true
 pages:
+- portfolio/works/aveda.md
 - portfolio/works/broadway-plus.md
 - portfolio/works/volta-live.md
