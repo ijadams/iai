@@ -9,7 +9,7 @@ categories:
 - ux
 - engineering
 - strategy
-description: Engineering, Web Design, Branding, Digital Strategy
+description: Engineering, Design, Branding
 
 ---
 # The Roots of Music
