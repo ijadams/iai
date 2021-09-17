@@ -14,4 +14,4 @@ date:
 
 NCT has delivered state-of-the-art solutions for many clients, including federal and local government agencies, prime government contractors, and private sector companies.
 
-See it in action here.
+See it in action [here](http://nctonline.com/).
