@@ -70,12 +70,12 @@
     updated() {
         // unwrap all images from paragraph tags so we can have
         // different widths inside the content.
-        document.querySelector('p img').forEach(image => {
+        document.querySelector('p img')?.forEach(image => {
           var wrapper = image.parentNode
           let children = wrapper.children
           let fragment = document.createDocumentFragment()
 
-          Array.from(children).forEach(child => {
+          Array.from(children)?.forEach(child => {
             fragment.appendChild(child)
           })
 
