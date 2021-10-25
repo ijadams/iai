@@ -43,6 +43,11 @@
     background-repeat: no-repeat;
     margin-bottom: 5vw;
     cursor: pointer;
+    transition: 0.2s ease-in;
+  }
+
+  .post:hover {
+    opacity: 0.85;
   }
 
   .info {
